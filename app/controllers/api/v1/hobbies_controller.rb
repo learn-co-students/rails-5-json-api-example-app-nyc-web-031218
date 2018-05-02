@@ -10,6 +10,7 @@ module Api
       end
 
       def show
+        #c
       end
     end
   end
